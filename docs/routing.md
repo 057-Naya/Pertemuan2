@@ -73,7 +73,7 @@ ditemukan. Route latihan tidak diubah menjadi 500 karena tujuan latihan
 adalah memahami penggunaan status code HTTP yang sesuai.
 
 
-- Masalah yang Sering Muncul
+-Masalah yang Sering Muncul
 
 | Gejala                               | Penyebab                        | Perbaikan                                       |
 | ------------------------------------ | ------------------------------- | ----------------------------------------------- |
